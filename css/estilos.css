@@ -87,7 +87,6 @@ border-radius: 50px;
   
 }
 .slide{
-  display: inline-block;
   float: left;
   overflow: hidden;
   width: 100%;
